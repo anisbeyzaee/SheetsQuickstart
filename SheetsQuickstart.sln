@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheetsQuickstart", "SheetsQuickstart\SheetsQuickstart.csproj", "{B92C4980-6221-4701-9AB2-4FEA028C9469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92C4980-6221-4701-9AB2-4FEA028C9469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92C4980-6221-4701-9AB2-4FEA028C9469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92C4980-6221-4701-9AB2-4FEA028C9469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92C4980-6221-4701-9AB2-4FEA028C9469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D16C8DC8-20F7-4931-B563-76645DC596BB}
+	EndGlobalSection
+EndGlobal
